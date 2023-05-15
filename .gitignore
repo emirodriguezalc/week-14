@@ -7,7 +7,7 @@ __pycache__/
 venv/
 .env.local
 .env.*.local
-
+.history
 # Dependency directories
 dist/
 build/
